@@ -1,0 +1,8 @@
+.img-zoom{
+    animation: up-down 2s ease-in-out infinite alternate-reverse both;
+    
+}
+.img-zoom:hover{
+    height: 400px;
+    background: gray;
+}
