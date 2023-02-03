@@ -1,8 +1,3 @@
-## computer website
-----
-- site [website](https://ramsakal143.github.io/computer)
-
-
 
 # Getting Started with Create React App
 
